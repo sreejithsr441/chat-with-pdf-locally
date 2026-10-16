@@ -1,0 +1,10 @@
+# The nine test questions (research brief, section 5). Ask each with the Wi-Fi off and log the result in results.csv.
+1. How much notice do I need to give to end the lease?
+2. How much is the rent, and when is it due?
+3. What is the late fee, and when does it apply?
+4. Who handles day-to-day repairs?
+5. Who is the landlord?                      # page 1 only: ask it via Ollama app drag-and-drop at 4K, then 32K
+6. How much does a replacement fob cost?     # from the fee table
+7. How much do I pay on signing, deposit plus first month?   # needs two sections
+8. Is a parking space included?              # not in the document: with and without --no-rules
+9. How much notice do I need to give to end the lease?  (sample-scanned.pdf, then sample-scanned-ocr.pdf)
